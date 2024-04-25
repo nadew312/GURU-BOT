@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['917605902011', 'GURU', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['94711932911', 'TADASHY', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
@@ -53,13 +53,13 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'TADASHY-ID'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.packname = 'tadashy┃ᴮᴼᵀ'
+global.author = 'tadashy ˢᵉⁿˢᵉⁱ'
+global.menuvid = 'https://i.imgur.com/fm9b9Yb.jpeg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
+global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqD'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
